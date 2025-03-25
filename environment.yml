@@ -1,0 +1,8 @@
+name: 7bus-env
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - cvxpy
+      - numpy
+      - ipykernel
